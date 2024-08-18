@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Muhammed Ashkar M
 I am a self-taught Python full-stack web developer
-from Calicut.
+from Calicut. Have experiance in Python django and React based web applications.
 
 <!--
 **Ashkar-m/Ashkar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
