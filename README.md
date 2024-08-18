@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Muhammed Ashkar M
+# Hi there 👋
+## My name is Muhammed Ashkar M
 I am a self-taught Python full-stack web developer
 from Calicut.
 
