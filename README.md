@@ -5,7 +5,8 @@ from Calicut. Have experiance in Python django and React based web applications.
 
 
 ### Languages and Tools
-![image](https://github.com/user-attachments/assets/48d525a7-69ed-4cd4-b480-219381a1d149)
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/> &nbsp;
+<img src="https://camo.githubusercontent.com/d764e0d1b0bb6fc6e65157b3c98b9e203a13a17390309fad633406c3324dbfb2/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="React" width="40" height="40"/> &nbsp;
 
 <!--
 **Ashkar-m/Ashkar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
