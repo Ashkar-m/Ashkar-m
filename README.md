@@ -26,6 +26,7 @@ from Calicut. Have experiance in Python django and React based web applications.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;
 <img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="django" width="40" height="40"/> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s" alt="Netlify" width="40" height="40"/> &nbsp;
 </div>
 </div>
 
