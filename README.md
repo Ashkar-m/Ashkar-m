@@ -33,6 +33,13 @@ from Calicut. Have experiance in Python django and React based web applications.
 
 <span><br><br></span>
 
+</br>
+<div>
+  <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
+  <a href="https://github.com/Ashkar-m/ajwa-tech.git">* Ecommerce App</a> </br>
+
+</div>
+
 <!--
 **Ashkar-m/Ashkar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
