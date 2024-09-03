@@ -38,6 +38,8 @@ from Calicut. Have experiance in Python django and React based web applications.
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
   <ul>
   <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a> </br></li>
+  <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a> </br></li>
+    
   </ul>
 
 </div>
