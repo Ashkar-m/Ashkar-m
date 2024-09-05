@@ -40,6 +40,7 @@ from Calicut. Have experiance in Python django and React based web applications.
   <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a> </br></li>
   <li><a href="https://github.com/Ashkar-m/ToDo.git">Todo app</a></li>
   <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a> </br></li>
+  <li><a href="https://github.com/Ashkar-m/Analog-Clock.git">Analog Clock</a></li>
     
   </ul>
 
