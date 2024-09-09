@@ -29,6 +29,7 @@ from Calicut. Have experiance in Python django and React based web applications.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s" alt="Netlify" width="40" height="40"/> &nbsp;<br/>
 <img src="https://static.codingforentrepreneurs.com/media/series/django-rest-framework-2022/73cb338f-9691-4f95-8895-50f4210ad803.jpg" alt="Rest" width="40" height="40"/>&nbsp;
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" width="40" height="40"/>&nbsp;
+<img src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png" alt="tailwind" width='40' height='40'/>&nbsp;
 </div>
 </div>
 
