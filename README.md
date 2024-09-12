@@ -47,7 +47,6 @@ from Calicut. Have experiance in Python django and React based web applications.
     
   </ul>
 
-![profile views](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FAshkar-m)
 </div>
 
 <!--
