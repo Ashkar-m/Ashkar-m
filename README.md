@@ -39,9 +39,10 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <div>
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
   <ul>
-  <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a> </br></li>
+  <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a></li>
+  <li><a href="https://github.com/Ashkar-m/Mind-Ventures.git">MindVentures</a></li>
   <li><a href="https://github.com/Ashkar-m/ToDo.git">Todo app</a></li>
-  <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a> </br></li>
+  <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a></li>
   <li><a href="https://github.com/Ashkar-m/Analog-Clock.git">Analog Clock</a></li>
   <li><a href="https://github.com/Ashkar-m/Usermanagement.git">User Management</a></li>
   <li><a href="https://github.com/Ashkar-m/Todo-drf.git">Todo-Django-rest-framework</a></li>
