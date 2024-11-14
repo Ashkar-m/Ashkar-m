@@ -47,8 +47,8 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
   <li><a href="https://github.com/Ashkar-m/Analog-Clock.git">Analog Clock</a></li>
   <li><a href="https://github.com/Ashkar-m/Usermanagement.git">User Management</a></li>
   <li><a href="https://github.com/Ashkar-m/Todo-drf.git">Todo-Django-rest-framework</a></li>
+   <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio</a></li>
   <li><a href="https://github.com/Ashkar-m/chat-app.git">Room chat application</a></li>
-  <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio</a></li>
   </ul>
 
 </div>
