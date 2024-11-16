@@ -42,19 +42,14 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
   <ul>
   <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a></li>
   <li><a href="https://github.com/Ashkar-m/Mind-Ventures.git">MindVentures</a></li>
+  <li><a href="https://github.com/Ashkar-m/chat-app.git">Room chat application</a></li>
   <li><a href="https://github.com/Ashkar-m/ToDo.git">Todo app</a></li>
   <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a></li>
   <li><a href="https://github.com/Ashkar-m/Analog-Clock.git">Analog Clock</a></li>
   <li><a href="https://github.com/Ashkar-m/Usermanagement.git">User Management</a></li>
   <li><a href="https://github.com/Ashkar-m/Todo-drf.git">Todo-Django-rest-framework</a></li>
-   <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio</a></li>
-  <li><a href="https://github.com/Ashkar-m/chat-app.git">Room chat application</a></li>
+  <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio</a></li>
   </ul>
 
 </div>
 
-<!--
-**Ashkar-m/Ashkar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
