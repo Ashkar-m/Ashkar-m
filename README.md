@@ -7,8 +7,6 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 ### Languages and Tools
 
 <div align="left">
-<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  -->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="60" height="60"/> &nbsp;
 <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="React" width="60" height="60"/> &nbsp;
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="60" height="60"/> &nbsp;
@@ -49,6 +47,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
   <li><a href="https://github.com/Ashkar-m/Usermanagement.git">User Management</a></li>
   <li><a href="https://github.com/Ashkar-m/Todo-drf.git">Todo-Django-rest-framework</a></li>
   <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio</a></li>
+  <li><a href="https://github.com/Ashkar-m/notepad.git">Notepad</a></li>
   </ul>
 
 </div>
