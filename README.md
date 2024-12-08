@@ -3,8 +3,7 @@
 I am a self-taught Python full-stack web developer
 from Calicut. Skilled in Python, Django, Django REST Framework, and React, I have successfully completed several projects that integrate these technologies to build dynamic web applications. My expertise spans both front-end and back-end development, ensuring seamless and scalable solutions.
 
-
-### Languages and Tools
+### Languages and Tool.
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="60" height="60"/> &nbsp;
@@ -31,7 +30,6 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC9f1SwiZDCSDvGpFiPIcAHjrzIpE9m1Iw&s" alt="docker" width='60' height='60' /> &nbsp;
 </div>
 </div>
-
 <span><br><br></span>
 
 </br>
