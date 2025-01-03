@@ -30,7 +30,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC9f1SwiZDCSDvGpFiPIcAHjrzIpE9m1Iw&s" alt="docker" width='60' height='60' /> &nbsp;
 </div>
 </div>
-<span><br><br></span>
+<span><br><br></span><br>
 
 </br>
 <div>
