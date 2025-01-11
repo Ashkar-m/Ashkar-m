@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Muhammed Ashkar M ,
+## My name is Muhammed Ashkar M
 I am a self-taught Python full-stack web developer
 from Calicut. Skilled in Python, Django, Django REST Framework, and React, I have successfully completed several projects that integrate these technologies to build dynamic web applications. My expertise spans both front-end and back-end development, ensuring seamless and scalable solutions.  
 
