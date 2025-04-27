@@ -34,6 +34,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <span><br><br></span>
 
 
+
 </br>
 <div>
   <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
