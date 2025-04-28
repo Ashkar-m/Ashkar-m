@@ -28,7 +28,8 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://static.codingforentrepreneurs.com/media/series/django-rest-framework-2022/73cb338f-9691-4f95-8895-50f4210ad803.jpg" alt="Rest" width="60" height="60"/>&nbsp;
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" width="60" height="60"/>&nbsp;
 <img src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png" alt="tailwind" width='60' height='60'/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC9f1SwiZDCSDvGpFiPIcAHjrzIpE9m1Iw&s" alt="docker" width='60' height='60' /> &nbsp; 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC9f1SwiZDCSDvGpFiPIcAHjrzIpE9m1Iw&s" alt="docker" width='60' height='60' /> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXX9v8fQafLb9yOkHPezYaQZqeNPNIi7MA&s" alt="asp.net" width='60' height='60' /> &nbsp; 
 </div>
 </div>
 <span><br><br></span>
