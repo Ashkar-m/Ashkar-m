@@ -34,7 +34,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQEbfKwfjY5c7A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1700363162132?e=1750896000&v=beta&t=sJKVd6i3I_rl6A1jaLLv6ZlQAyCuEURS7tfCUKZJroM" alt="Entity Framework" width='60' height='60' /> &nbsp; 
    
 </div>
-</div>
+</div> 
 <span><br><br></span>
 
 
