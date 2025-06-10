@@ -6,7 +6,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 ### Languages and Tool.       
           
 
-<div align="left">
+<div align="left"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="60" height="60"/> &nbsp;
 <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="React" width="60" height="60"/> &nbsp;
 <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="60" height="60"/> &nbsp;
