@@ -32,6 +32,7 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXX9v8fQafLb9yOkHPezYaQZqeNPNIi7MA&s" alt="asp.net" width='60' height='60' /> &nbsp; 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO8cA8sAHtXEDYFeK_prPOvLgJk10fgc8_g&s" alt="c#" width='60' height='60' /> &nbsp;    
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQEbfKwfjY5c7A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1700363162132?e=1750896000&v=beta&t=sJKVd6i3I_rl6A1jaLLv6ZlQAyCuEURS7tfCUKZJroM" alt="Entity Framework" width='60' height='60' /> &nbsp; 
+<img src="https://www.iobeya.com/wp-content/uploads/2022/12/Feature-Header-Image-JIRA-1.webp" alt="Jira" width='60' height='60' /> &nbsp;
    
 </div>
 </div> 
