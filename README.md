@@ -13,7 +13,6 @@ from Calicut. Skilled in Python, Django, Django REST Framework, and React, I hav
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c-language" width="60" height="60"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> &nbsp;
-<img src="https://www.gstatic.com/devrel-devsite/prod/v4513918f2560a1fecca3cf64c2df2e8b263c90b977664567b98ccb062542a623/firebase/images/lockup.svg" alt="firebase" width="60" height="60"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> &nbsp;<br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> &nbsp;
