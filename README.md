@@ -1,65 +1,57 @@
 # Hi there 👋
 ## My name is Muhammed Ashkar M ,
-## Software Engineer
-I am a self-taught Python full-stack web developer
-from Calicut. Skilled in Python, Django, Django REST Framework, and React, I have successfully completed several projects that integrate these technologies to build dynamic web applications. My expertise spans both front-end and back-end development, ensuring seamless and scalable solutions.
+## Software Engineer | Backend-Focused Full-Stack Developer  
+Python • Django • React • ASP.NET • PostgreSQL • C# 
+
+I build scalable web applications with clean APIs, secure authentication, 
+and well-designed databases. Experienced in developing end-to-end systems 
+including REST APIs, role-based access, and frontend integrations.
+
+Interested in backend-heavy roles and real-world product development.
+
     
-### Languages and Tool.       
-           
+### Languages and Tool.      
 
-<div align="left"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="60" height="60"/> &nbsp;
-<img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="React" width="60" height="60"/> &nbsp;
-<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c-language" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> &nbsp;<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="40" height="40"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/> &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> &nbsp;
-<img src="https://copyassignment.com/wp-content/uploads/2022/06/Django-logo-474x360-1.jpg" alt="django" width="60" height="60"/> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s" alt="Netlify" width="60" height="60"/> &nbsp;<br/>
-<img src="https://static.codingforentrepreneurs.com/media/series/django-rest-framework-2022/73cb338f-9691-4f95-8895-50f4210ad803.jpg" alt="Rest" width="60" height="60"/>&nbsp;
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySql" width="60" height="60"/>&nbsp;
-<img src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png" alt="tailwind" width='60' height='60'/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC9f1SwiZDCSDvGpFiPIcAHjrzIpE9m1Iw&s" alt="docker" width='60' height='60' /> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1XXX9v8fQafLb9yOkHPezYaQZqeNPNIi7MA&s" alt="asp.net" width='60' height='60' /> &nbsp; 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPO8cA8sAHtXEDYFeK_prPOvLgJk10fgc8_g&s" alt="c#" width='60' height='60' /> &nbsp;
-<img src="https://www.iobeya.com/wp-content/uploads/2022/12/Feature-Header-Image-JIRA-1.webp" alt="Jira" width='60' height='60' /> &nbsp;
-   
-</div>
-</div> 
-<span><br><br></span>
+🧠 Backend
+Python, Django, Django REST Framework, ASP.NET Core, C#
+
+🎨 Frontend
+React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+
+🗄 Databases
+PostgreSQL, MySQL, MongoDB
+
+⚙ DevOps & Tools
+Docker, AWS, Nginx, Git, GitHub, Postman, Jira, Netlify
+
+📐 Others
+REST APIs, Authentication, Authorization, System Design Basics
 
 
 
-</br>
-<div>
-  <h2 style="font-size: 12px; font-weight: bold;">Featured Projects:</h2>
-  <ul>
-  <li><a href="https://github.com/Ashkar-m/ajwa-tech.git">Ecommerce App</a></li>
-  <li><a href="https://github.com/Ashkar-m/Mind-Ventures.git">MindVentures</a></li>
-  <li><a href="https://github.com/Ashkar-m/chat-app.git">Room chat application</a></li>
-  <li><a href="https://github.com/Ashkar-m/notepad.git">Notepad</a></li>
-  <li><a href="https://github.com/Ashkar-m/ToDo.git">Todo app</a></li>
-  <li><a href="https://github.com/Ashkar-m/Netflix-clone.git">Netflix Clone</a></li>
-  <li><a href="https://github.com/Ashkar-m/Analog-Clock.git">Analog Clock</a></li>
-  <li><a href="https://github.com/Ashkar-m/Usermanagement.git">User Management</a></li>
-  <li><a href="https://github.com/Ashkar-m/Todo-drf.git">Todo-Django-rest-framework</a></li>
-  <li><a href="https://github.com/Ashkar-m/Portfolio.git">Portfolio site</a></li>
-  <li><a href="https://github.com/Ashkar-m/chat-app.git"> Chat app</a></li>
-  <li><a href="https://github.com/Ashkar-m/OpenAI.git"> Open AI</a></li>
-  </ul>
+## 🚀 Featured Projects
 
+🔹 Ecommerce Application
+Full-stack e-commerce platform built with Django, DRF, and React.
+Implemented user authentication, cart, order flow, and REST APIs 
+with PostgreSQL backend.
 
-  
+🔹 MindVentures (E-Learning Platform)
+Role-based learning platform with student, tutor, and admin modules.
+Designed REST APIs, course management, and secure authentication flows.
 
-</div>
+🔹 Real-Time Chat Application
+WebSocket-based chat app enabling real-time messaging with user presence
+and authentication.
+
+🔹 User Management System
+CRUD-based system with authentication, authorization, and API validation
+using Django REST Framework.
+
+🔹 Todo App (DRF)
+RESTful backend with JWT authentication and React frontend integration.
+
+🔹 OpenAI Integration Project
+Integrated OpenAI APIs to build AI-powered features within a web application.
 
 
