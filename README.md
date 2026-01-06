@@ -28,7 +28,7 @@ Docker, AWS, Nginx, Git, GitHub, Postman, Jira, Netlify
 REST APIs, Authentication, Authorization, System Design Basics
 
 
-
+ 
 ## 🚀 Featured Projects
 
 🔹 Ecommerce Application
