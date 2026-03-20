@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is Muhammed Ashkar M ,
-## Software Engineer | Backend-Focused Full-Stack Developer  
+## Software Engineer | Backend-Focused Full-Stack Developer   
 Python • Django • React • ASP.NET • PostgreSQL • C#  
 
 I build scalable web applications with clean APIs, secure authentication, 
