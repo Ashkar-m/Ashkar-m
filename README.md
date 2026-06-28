@@ -24,6 +24,10 @@ PostgreSQL, MySQL, MongoDB
 ⚙ DevOps & Tools
 Docker, AWS, Nginx, Git, GitHub, Postman, Jira, Netlify
 
+🏗 Architecture & Design
+Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture , Modular Monolith ,
+Event-Driven Architecture (EDA), CQRS, Design Patterns, Object-Oriented Design (OOD), System Design
+
 📐 Others
 REST APIs, Authentication, Authorization, System Design Basics
 
